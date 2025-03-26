@@ -31,4 +31,11 @@ A job-seeking and recruitment platform tailored for Uzbekistan's job market.
 ✔️ Led teams in **CEO Marketing** and **AKFA Group of Companies**.  
 ✔️ Passionate about AI-driven applications and automation.  
 
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tojiddinov&show_icons=true&theme=dark)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tojiddinov&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tojiddinov&layout=compact&theme=dark)
+
+
+
+
 🚀 Always learning and improving. Let's build something amazing together! ✨
